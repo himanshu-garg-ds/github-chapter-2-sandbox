@@ -6,4 +6,5 @@
 4. git fork -> git clone 
 5. git pull | git push
 6. git merge
-7. pull requests 
+7. git push using main vs feature branch ?
+7. pull requests  
